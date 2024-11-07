@@ -1,0 +1,1 @@
+// write a program to generate all combinations of 1, 2, 3 using for loop.

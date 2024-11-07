@@ -1,0 +1,1 @@
+//if the length of three sides of a triangle are input through the keyboard write a c program to find the area of the triangle. 

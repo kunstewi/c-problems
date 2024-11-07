@@ -1,0 +1,1 @@
+// write a program to produce the pascal triangle using numbers from 1 to 10.

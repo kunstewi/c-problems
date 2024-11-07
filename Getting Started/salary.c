@@ -1,3 +1,5 @@
+// Salary calculating c program.
+
 #include <stdio.h>
 int main() {
     float bp, da, hra, grpay;

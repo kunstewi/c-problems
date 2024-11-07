@@ -1,0 +1,2 @@
+// write a program to calculate overtime pay of 10 employees. overtime is paid at the rate of 12 per hour for every hour worked above 40 hours.
+// assume employees do not work for fractional part of an hour.

@@ -1,3 +1,5 @@
+/* Write a c program  to calculate area and perimeter of circle and rectangle.*/
+
 #include <stdio.h>
 
 int main(){

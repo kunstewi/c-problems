@@ -1,0 +1,2 @@
+// Three sides of a triangle is input through the keyboard. Write a program to determine whether the triangle is valid or not.
+// Also check if the triangle is isosceles, equilateral, scalene or right angled triangle.

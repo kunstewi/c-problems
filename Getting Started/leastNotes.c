@@ -1,0 +1,2 @@
+// Consider a currency system in which there are notes of seven denominations namely Rs 1, 2, 5, 10, 50 and 100.
+// if a sum of Rs N is entered through the keyboard write a program to compute the smallest number of notes that will combine to give Rs N.

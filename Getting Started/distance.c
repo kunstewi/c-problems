@@ -1,3 +1,5 @@
+/* Unit conversion c program.*/
+
 #include <stdio.h>
 int main(){
     float km, m, cm, feet, inches;
