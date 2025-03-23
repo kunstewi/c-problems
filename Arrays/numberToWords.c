@@ -1,0 +1,2 @@
+// Write a program that recieves an integer (less than or equal to nine digits in legth ) and prints out the number in words.
+// For example, if the number input is 12342, than the output should be twelve thousand three hundred forty two.

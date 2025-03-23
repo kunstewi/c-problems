@@ -1,0 +1,1 @@
+// Write a program that writes strings to a file using fputs() and then reads them back using fgets().

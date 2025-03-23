@@ -1,0 +1,1 @@
+// Write a program that will read a file and count how many characters, spaces, tabs and newlines are present in it.

@@ -1,0 +1,1 @@
+// Given e text file, write a program to create another text file deleting the words "a", "an" and "the" and replacing each one of them with a blank space.

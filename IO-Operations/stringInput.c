@@ -1,0 +1,1 @@
+// How would you recieve the string as an array char str[100] "We have got the guts, you get the glory!!"
